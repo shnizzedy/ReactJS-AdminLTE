@@ -1,6 +1,6 @@
 # shnizzedy/ReactJS-AdminLTE
 
-[https://github.com/booleanhunter/ReactJS-AdminLTE](https://github.com/booleanhunter/ReactJS-AdminLTE) version of [the original AdminLTE dashboard](https://github.com/almasaeed2010/AdminLTE) with [lodash@4.17.5](https://www.npmjs.com/package/lodash/v/4.17.5) and [minimatch@3.0.4](https://www.npmjs.com/package/minimatch/v/3.0.4). This fork exists solely to resolve conflicts with those two packages in [Mindlogger](https://github.com/ChildMindInstitute/mindlogger-app-admin-panel), and those two package versions and this README are the only differences from the upstream master.
+[booleanhunter/ReactJS-AdminLTE](https://github.com/booleanhunter/ReactJS-AdminLTE) version of [the original AdminLTE dashboard](https://github.com/almasaeed2010/AdminLTE) with [lodash@4.17.5](https://www.npmjs.com/package/lodash/v/4.17.5) and [minimatch@3.0.4](https://www.npmjs.com/package/minimatch/v/3.0.4). This fork exists solely to resolve conflicts with those two packages in [Mindlogger](https://github.com/ChildMindInstitute/mindlogger-app-admin-panel), and those two package versions and this README are the only differences from the upstream master.
 
 ### Prerequisites:
 - [git](https://git-scm.com/)
